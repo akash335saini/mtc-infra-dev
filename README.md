@@ -1,2 +1,2 @@
-# mtc-infra-dev
-This repo is for infra MTC code development by terraform developers.
+# This is a readme file for terraform development practice.
+The file was last modified by Akash Saini
